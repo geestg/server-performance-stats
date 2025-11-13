@@ -10,3 +10,6 @@ Skrip ini digunakan untuk menampilkan metrik performa dasar pada sistem Linux me
 - Top 5 proses berdasarkan penggunaan memori
 
 ## Cara Menjalankan
+
+## Sumber Proyek Roadmap.sh
+https://roadmap.sh/projects/server-stats
